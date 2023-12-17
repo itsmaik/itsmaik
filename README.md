@@ -1,4 +1,4 @@
-- 👋 Hi there, Its me, Maik here.
+- 👋 Hi there, Its Maik here.
 - 👀 I am deeply passionate about technology and its potential to enhance our lives. I have a natural aptitude and love for administration, teamwork and people development.
 -  My biggest goal is to implement technological solutions to make people's lives easier and better.
 -  My greatest strength lies in maintaining a very open mindset, which enables me to embrace new challenges and continuously evolve in the dynamic field of technology.
