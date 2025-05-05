@@ -1,10 +1,36 @@
-- 👋 Hi there, Its Maik here.
-- 👀 I am very interested in technology and its potential to enhance our lives. I have a natural aptitude and love for administration, teamwork and people development.
--  My biggest goal is to implement technological solutions to make people's lives easier and better.
--  My greatest strength lies in maintaining a very open mindset, which enables me to embrace new challenges and continuously evolve in the dynamic field of technology.
-- 🌱 I am currently in my second year of studying Front-end Development at Noroff and my first year in Systems Analysis and Development at Faculdade Católica Paulista, in addition to all my experience in Administration.
-- 💞️ I'm excited to contribute to projects where technology intersects with social impact. My enthusiasm lies in applying my developing skills, specially in front-end development, to create solutions that make a positive difference in people's lives.
-- 📫 Feel free to reach out to me via email at itsmaik@icloud.com, or connect with me on LinkedIn: Maik Helland Olsen.
+### 👋 Hi, I'm Maik!
+
+I'm a **Web Developer** deeply interested in using technology to build meaningful digital solutions that help people in practical ways. I thrive in team environments and bring a strong background in communication, collaboration, and problem-solving skills.
+
+🔭 I hold a degree in Frontend Development and am currently pursuing a Bachelor’s in Systems Analysis and Development.
+
+👨‍💻 Currently improving my skills in Node.js, Next.js, and databases (MySQL, MongoDB) to become a versatile full-stack developer.
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages & Frameworks:**  
+HTML, CSS, Sass, JavaScript, TypeScript, React
+
+**Styling & Design:**  
+Tailwind CSS, Bootstrap, Figma, UI/UX Design Principles
+
+**Development Tools:**  
+Git, GitHub, Vite, Netlify, React Query
+
+**Methodologies:**  
+Agile Development, Responsive Design, API Integration, Component-Based Architecture
+
+**Soft Skills:**  
+People Management, Team Collaboration, Problem Solving, Communication
+
+---
+
+📫 Let's connect!  
+[📧 itsmaik@icloud.com](mailto:itsmaik@icloud.com)  
+[🔗 LinkedIn: Maik Helland Olsen](https://www.linkedin.com/in/maik-helland-olsen-246338294/)  
+[🌐 Portfolio](https://itsmemaik-portfolio.netlify.app/)
 
 <!---
 itsmaik/itsmaik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
